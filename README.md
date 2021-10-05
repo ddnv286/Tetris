@@ -1,5 +1,4 @@
 # unity-tetris
-dave's tetris
 
 David's first take of Tetris - a tile-matching video game created by Russian software engineer Alexey Pajitnov in 1984.
 
